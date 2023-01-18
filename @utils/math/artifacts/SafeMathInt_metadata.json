@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Math operations with safety checks that revert on errorSafeMath adapted for int256 Based on code of  https://github.com/RequestNetwork/requestNetwork/blob/master/packages/requestNetworkSmartContracts/contracts/base/math/SafeMathInt.sol",
+			"kind": "dev",
+			"methods": {},
+			"title": "SafeMathInt",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"@utils/math/SafeMathInt.sol": "SafeMathInt"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"@utils/math/SafeMathInt.sol": {
+			"keccak256": "0x0479c42a0deeb595eb04967003d322201253d49f874af6c875086fcda1cf952f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://077621d0f822b0c3804f03cb637df1d8fea667e0586c3562aeb70fd79befe9e2",
+				"dweb:/ipfs/QmZifigEwDALL6HdSuJXAMeMe31shWr6GBx48ZcxSsdTiB"
+			]
+		}
+	},
+	"version": 1
+}
